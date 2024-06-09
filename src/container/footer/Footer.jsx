@@ -31,8 +31,6 @@ const Footer = () => {
           <h4>Terms and Conditions</h4>
           <p>Privacy Policy</p>
           <p>Contact</p>
-          
-          
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Get In Touch</h4>
@@ -42,10 +40,10 @@ const Footer = () => {
           
         </div>
 
-        <div className='gpt3__footer-copyright'>
+      </div>
+      <div className='gpt3__footer-copyright'>
           <p>© 2021 GPT-3. All rights reserved.</p>
         </div>
-      </div>
     </div>
   )
 }
