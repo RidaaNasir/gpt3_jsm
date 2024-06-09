@@ -99,6 +99,15 @@ cursor: pointer;
         font-size: 28px;
         line-height: 40px;
     }
+
+    .gpt3__whatgpt3-container {
+        display: flex;
+        flex-direction: column;
+      }
+    
+      .gpt3__whatgpt3-container .gpt3__features-container__feature {
+        margin: 1rem 0;
+      }
 }
 
 @media screen and (max-width: 350px) {
