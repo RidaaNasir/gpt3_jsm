@@ -28,7 +28,6 @@ a{
 
     /* global 92%+ browsers support */
     background: radial-gradient(circle at 3% 25%, rgba(4, 12, 24, 1) 0%, rgba(0, 188, 212, 1) 50%, rgba(238, 130, 238, 1) 100%);
-
 }
 .gradient__text{
     background: var(--gradient-text);
